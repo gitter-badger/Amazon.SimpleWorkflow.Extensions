@@ -4,6 +4,8 @@
 Amazon.SimpleWorkflow.Extensions
 ==================================
 
+[![Join the chat at https://gitter.im/zpbappi/Amazon.SimpleWorkflow.Extensions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zpbappi/Amazon.SimpleWorkflow.Extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Extensions to AmazonSDK's SimpleWorkflow capabilities to make it more intuitive to use for .Net developers.
 
 
